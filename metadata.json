@@ -1,0 +1,5 @@
+{
+  "name": "Contribution Impact Calculator",
+  "description": "A tool for retirement fund members to calculate the impact of changing contribution rates and expenses.",
+  "requestFramePermissions": []
+}
